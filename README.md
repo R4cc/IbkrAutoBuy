@@ -2,6 +2,12 @@
 ## Summary:
 This is a python script that automatically buys a given stock and sends a mail via SMTP
 
+## Dependencies
+You have to install the following packages via pip:
+- ib_insync
+- smtplib 
+- ssl
+
 ## Initial Configuration
 You first ***have*** to configure the following variables:
 ### Start.py
